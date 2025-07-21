@@ -1,7 +1,7 @@
 # TataNeu-Ecommerce_Case_study
 A comprehensive, data-driven case study analyzing the Tata Neu super app ecosystem with the goal of improving platform profitability by at least 25%. This project was completed as a team of 3 data science students and covers everything from product dissection to business strategy, database schema, financial projections, and guesstimates.
 
-Project Objectives
+## Project Objectives
 Dissect the Tata Neu platform and understand its multi-vertical structure (Croma, BigBasket, 1mg, Taj, Flights).
 
 Identify real-world pain points, customer behavior gaps, and operational inefficiencies.
@@ -14,7 +14,7 @@ Propose a strategy to increase net profit by 25%+, backed by charts, projections
 
 Practice structured guesstimates and simulate real-world business case interviews.
 
-Key Components
+## Key Components
 01_Product_Dissection.md – Platform features, verticals, core functionalities
 
 02_Problems_and_Solutions.md – Real-world platform issues and data-backed solutions
@@ -29,7 +29,7 @@ Key Components
 
 Visuals/ – All graphs: GMV trend, expense allocation, segment-wise revenue, Sankey diagram
 
-Tools & Skills Applied
+## Tools & Skills Applied
 Business Analytics
 
 SQL & DB Design (DBMS, ER Modeling)
